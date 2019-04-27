@@ -1,3 +1,4 @@
+/* Comment */
 package GraphEditor;
 
 import javafx.scene.paint.Color;
