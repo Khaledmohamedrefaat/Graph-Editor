@@ -6,10 +6,20 @@
 Graph Editor 1.0 is a graph visualizer program, which includes a set of features that will help you in creating, modifying, and visualizing any graph data structure easily.
 
 ## Table of contents
-* [Setup](##Setup)
-* [Technologies](##Technologies)
-* [Features](##Features)
-* [Contributers](##Contributers)
+* [Setup](#setup)
+  * [Technologies](#technologies)
+  * [Features](#features)
+    + [Adding a new node/vertex](#adding-a-new-node-vertex)
+    + [Removing an existing node/vertex](#removing-an-existing-node-vertex)
+    + [Adding a new edge](#adding-a-new-edge)
+    + [Removing an existing edge](#removing-an-existing-edge)
+    + [Modifying an existing edge](#modifying-an-existing-edge)
+    + [Calculating Sum](#calculating-sum)
+    + [Complete Graphs](#complete-graphs)
+    + [New Undirected Graph](#new-undirected-graph)
+    + [New Directed Graph](#new-directed-graph)
+    + [Clear Graph](#clear-graph)
+  * [Contributers](#contributers)
 
 ## Setup
 
